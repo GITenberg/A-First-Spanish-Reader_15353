@@ -1,0 +1,36 @@
+_repo: A-First-Spanish-Reader_15353
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Remy, Alfred
+    birthdate: 1870
+    gutenberg_agent_id: '6010'
+    url: http://www.gutenberg.org/2009/agents/6010
+  - agent_name: Roessler, Erwin W. (Erwin William)
+    alias: Roessler, Erwin William Eugene
+    birthdate: 1880
+    gutenberg_agent_id: '6009'
+    url: http://www.gutenberg.org/2009/agents/6009
+description: ''
+gutenberg_bookshelf:
+- Language Education
+- Children's Instructional Books
+gutenberg_issued: '2005-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15353'
+language:
+- es
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PC'
+- !lcsh 'Spanish language -- Readers'
+- !lcsh 'Spanish language -- Textbooks for foreign speakers -- English'
+title: A First Spanish Reader
+url: http://www.gutenberg.org/ebooks/15353
